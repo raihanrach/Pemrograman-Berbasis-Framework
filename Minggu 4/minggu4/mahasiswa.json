@@ -1,20 +1,22 @@
 {
-    "mahasiswa": [
-        {
-        "NIM": 1841720167,
-        "nama": "Raihan",
-        "alamat": "Jl. Soekarno Hatta No. 9 Malang",
-        "hp": "081805504748",
-        "angkatan": 2018,
-        "status": "aktif"
-        },
-        {
-        "NIM": 1841720168,
-        "nama": "Rachmadani",
-        "alamat": "Jl. Menur No. 9 Surabaya",
-        "hp": "085156939542",
-        "angkatan": 2014,
-        "status": "lulus"
-        }
-        ]
+  "mahasiswa": [
+    {
+      "id": "1",
+      "nim": 1841720168,
+      "nama": "Rachmadani",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "085156939542",
+      "angkatan": 2014,
+      "status": "lulus"
+    },
+    {
+      "id": 1614908026265,
+      "nama": "PBF",
+      "nim": "1212",
+      "alamat": "Polinema 3H",
+      "hp": "3333",
+      "angkatan": "2021",
+      "status": "Masih kuliah"
+    }
+  ]
 }

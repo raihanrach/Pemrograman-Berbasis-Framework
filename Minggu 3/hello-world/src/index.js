@@ -10,6 +10,7 @@ import List from './List'
 import Footer from './Footer';
 import Tes from './Test';
 import LoginComponent from './component/LoginComponent';
+import BlogPost from './container/BlogPost/BlogPost';
 
 ReactDOM.render(<LoginComponent />, document.getElementById('root'));
 
