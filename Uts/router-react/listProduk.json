@@ -1,0 +1,87 @@
+{
+  "barang": [
+    {
+      "userId": 1,
+      "id": 1,
+      "nama": "Kipas Merk Miyako",
+      "image": "https://static.bmdstatic.com/pk/product/medium/MIYAKO-Kipas-Angin-Lantai-KAS-1618KB--3316365496-201732716837.jpg",
+      "harga": 1500000,
+      "stok": 3
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "nama": "Kipas Merk Sanken",
+      "image": "https://cf.shopee.co.id/file/40c136424345e0725049f8276b5c5b29",
+      "harga": 119900,
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "nama": "Kipas Merk Cosmos",
+      "image": "https://static.bmdstatic.com/pk/product/large/5cd2468b9f011.jpg",
+      "harga": 104000,
+      "stok": 4
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "nama": "Kipas Merk Maspion",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sensu.JPG/1200px-Sensu.JPG",
+      "harga": 246000,
+      "stok": 2
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "nama": "Kipas Merk Regency",
+      "image": "https://cf.shopee.co.id/file/c38bf6848cee4dad7b6f8293e4df31c0",
+      "harga": 200000,
+      "stok": 3
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "nama": "Kipas Merk Sekai",
+      "image": "https://static.bmdstatic.com/pk/product/large/5cda756682f6a.jpg",
+      "harga": 90000,
+      "stok": 2
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "nama": "Kipas Merk Advance",
+      "image": "https://id-test-11.slatic.net/p/ed1113c015333cf72f349875976aa764.jpg",
+      "harga": 229000,
+      "stok": 5
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "nama": "Kipas Merk Trisonic",
+      "image": "https://www.pricenia.com/img/2016/3/Trisonic-Wall-Fan-Kipas-Angin-Dinding-16-Inch--1460157343013.jpg",
+      "harga": 139000,
+      "stok": 7
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "nama": "Kipas Merk Kirin",
+      "image": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/electricfans/Kirin_KEF_16WF3/Kirin_KEF_16WF3_L_1.jpg",
+      "harga": 109000,
+      "stok": 10
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "nama": "Kipas Merk Sanken",
+      "image": "https://cf.shopee.co.id/file/40c136424345e0725049f8276b5c5b29",
+      "harga": 99000,
+      "stok": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
