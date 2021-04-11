@@ -103,6 +103,22 @@
       "harga": 200000,
       "total_qty": 2,
       "total_harga": 400000
+    },
+    {
+      "userId": 3,
+      "id": 1617583404856,
+      "nama": "Kipas Merk Cosmos",
+      "harga": 104000,
+      "total_qty": 1,
+      "total_harga": 104000
+    },
+    {
+      "userId": 2,
+      "id": 1617583698585,
+      "nama": "Kipas Merk Sanken",
+      "harga": 119900,
+      "total_qty": 1,
+      "total_harga": 119900
     }
   ],
   "profile": {

@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": "1",
+      "nim": 1841720168,
+      "nama": "Rachmadani",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "085156939542",
+      "angkatan": 2014,
+      "status": "lulus"
+    },
+    {
+      "id": 1617844822946,
+      "nama": "crux",
+      "nim": "1283613781",
+      "alamat": "polinema",
+      "hp": "45678",
+      "angkatan": "1",
+      "status": "pemula"
+    }
+  ]
+}
