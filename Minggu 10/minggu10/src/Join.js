@@ -28,7 +28,7 @@ const Join = () => {
             signInWithPopup(base_provider)
             .then(res => {
                 Auth.setLoggedIn(true);
-                alert("Success Login");
+                alert("Join Successfully");
             })
             .catch(e => {
                 setErrors(e.message);
